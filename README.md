@@ -1,4 +1,4 @@
-# SDK Settings Page Project
+# SDK Configuration Project
 
 Speakeasy generates SDKs based on OpenAPI documents. The deliverable we create for our customers is a GitHub repository containing an OpenAPI document, some configuration, and a GitHub workflow that reads in those two things and outputs an SDK in that repo. Most customers have many SDK languages configured, each of which is generated from the same OpenAPI document but has unique configuration and lives in its own repo.
 
